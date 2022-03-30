@@ -1,6 +1,6 @@
 # Certificates
   * Sololearn - C Course
-   
+    https://github.com/Teja-Srinivas-Reddy/P1_Checkpost/blob/main/c%20course%20certificate.pdf
   * CISCO - NDG LINUX unhatched
     https://github.com/Teja-Srinivas-Reddy/P1_Checkpost/blob/main/Teja%20SrinivasReddy-NDG%20Linux%20Unhatc-certificate%202.pdf
   * Git Training
