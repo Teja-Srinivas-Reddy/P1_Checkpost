@@ -1,9 +1,15 @@
 # Introduction:
-Checkpost provides an security to an area or a place by authenticate the vehicles and people who enters and departure's from a particular place and time. My application runs and collects the data which type of vehicles are entries and lefts the checkpost by recording the registration number of the vehicle. It also generates the payable amount of particular type of vehicle and shows all the entries in the details menu, and the details menu has how many numbers of vehicles are passes through the checkpost and total amount to be collected on the particular day.
-# Features:
-1. Get User's choice of input and present the chosen Sensor's basic Datasheet.
 
-2. Simple Project -Learning tool and easy to understand.
+Checkpost provides an security to an area or a place by authenticate the vehicles and people who enters and departure's from a particular place and time. My application runs and collects the data which type of vehicles are entries and lefts the checkpost by recording the registration number of the vehicle. It also generates the payable amount of particular type of vehicle and shows all the entries in the details menu, and the details menu has how many numbers of vehicles are passes through the checkpost and total amount to be collected on the particular day.
+
+# Features:
+1. Get User's choice of entries and present the chosen type of vehicle. 
+
+2. User get the payable tax amount to the checkpost.
+
+3. Authentication of vehicle whether it enters or departures from the checkpost. 
+
+4. Simple Project -Learning tool and easy to understand.
 
 # 4W'S and 1H:
 ## What?
