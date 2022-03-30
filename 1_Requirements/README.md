@@ -47,7 +47,7 @@ Checkpost provides an security to an area or a place by authenticate the vehicle
 ## Low level requirements:
 | S.no | Low level requirements | Description | Status |
 | :---: | :---: | :---: | ---: |
-| 1 | LR1 | User Interface | done |
+| 1 | LR1 | User Interface | Done |
 | 2 | LR2 | Previous data | Done |
 | 3 | LR3 | Customization | Done |
 
