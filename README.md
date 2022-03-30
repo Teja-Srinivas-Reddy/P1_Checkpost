@@ -6,3 +6,4 @@
   * Git Training
     https://github.com/Teja-Srinivas-Reddy/P1_Checkpost/blob/main/GIT%20COURSE%20CERTIFICATE.pdf
   * First day on Github- Screenshot
+    https://github.com/Teja-Srinivas-Reddy/P1_Checkpost/blob/main/git%20hub%20lnt4.jpeg
