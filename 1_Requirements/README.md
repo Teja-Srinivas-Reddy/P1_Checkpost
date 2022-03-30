@@ -25,13 +25,13 @@ Checkpost provides an security to an area or a place by authenticate the vehicle
 
 # SWOT ANALYSIS:
 ## Strength:
-- Its strength is compact in size
-- accuracy in displaying the correct Features.
+- Its strength is high in security.
+- accuracy in displaying the correct tax and information.
 ## Weakness:
 - Not able to produce further elaborate functions and interfacing procedures.
 ## Opportunity:
-- We should create an opportunity to make our Platform used by everyone by providing an awareness over the advancements in the current world benefitted by wide range of sensors.
-- Due to present scenario it can help many budding instrumenteers.
+- We should create an opportunity to make our Platform used by everyone by providing an awareness over the advancements in the current world benefitted by wide range of security.
+- Due to present scenario it can help in many security measures.
 ## Threat:
 - Now there are many new inventions and advancements over the mentioned list.
 
