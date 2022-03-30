@@ -40,7 +40,7 @@ Checkpost provides an security to an area or a place by authenticate the vehicle
 ## High level requirements:
 | S.no | High level requirement | Description | Status |
 | :---:| :---: | :---: | ---: |
-| 1 | HLR1 | Setup and enlargement of Education community | Done |
+| 1 | HLR1 | Setup and enlargement of checkpost in community | Done |
 | 2 | HLR2 | Source Reliability | Done |
 | 3 | HLR3 | Quality standards | Done |
 
@@ -48,6 +48,6 @@ Checkpost provides an security to an area or a place by authenticate the vehicle
 | S.no | Low level requirements | Description | Status |
 | :---: | :---: | :---: | ---: |
 | 1 | LR1 | User Interface | done |
-| 2 | LR2 | Avr Gcc compiler | Done |
+| 2 | LR2 | Previous data | Done |
 | 3 | LR3 | Customization | Done |
 
