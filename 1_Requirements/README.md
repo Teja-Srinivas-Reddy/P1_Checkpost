@@ -1,6 +1,5 @@
 # Introduction:
-A sensor is a device that receives a signal or stimulus and responds to the stimulus in the form of an electrical signal. The output signals correspond to some forms of electrical signal, such as current or voltage. The sensor is a device that receives different kinds of signal i.e. physical, chemical or biological signal and converts them into an electric signal. The sensors are classified into different types based on the applications, input signal, and conversion mechanism, material used in sensor characteristics such as cost, accuracy or range. This Project presents an overview of some basic sensors and their classifications as IC name, Operating voltage, Peripherals. 
-
+Checkpost provides an security to an area or a place by authenticate the vehicles and people who enters and departure's from a particular place and time. My application runs and collects the data which type of vehicles are entries and lefts the checkpost by recording the registration number of the vehicle. It also generates the payable amount of particular type of vehicle and shows all the entries in the details menu, and the details menu has how many numbers of vehicles are passes through the checkpost and total amount to be collected on the particular day.
 # Features:
 1. Get User's choice of input and present the chosen Sensor's basic Datasheet.
 
