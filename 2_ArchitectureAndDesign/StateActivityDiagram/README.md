@@ -1,2 +1,3 @@
 # State Activity Diagram
-![image]![state activity diagram](https://user-images.githubusercontent.com/102644653/160905616-dd7784f4-a667-47ff-a3fa-ed15554e5867.jpg)
+![state activity diagram](https://user-images.githubusercontent.com/102644653/160905876-d5071270-6b06-4ad7-b981-2144544b11dd.jpg)
+
