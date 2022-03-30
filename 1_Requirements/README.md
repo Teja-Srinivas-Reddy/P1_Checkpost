@@ -3,7 +3,7 @@
 Checkpost provides an security to an area or a place by authenticate the vehicles and people who enters and departure's from a particular place and time. My application runs and collects the data which type of vehicles are entries and lefts the checkpost by recording the registration number of the vehicle. It also generates the payable amount of particular type of vehicle and shows all the entries in the details menu, and the details menu has how many numbers of vehicles are passes through the checkpost and total amount to be collected on the particular day.
 
 # Features:
-1. Get User's choice of entries and present the chosen type of vehicle. 
+1. Get User's choice of entries and choose type of vehicle. 
 
 2. User get the payable tax amount to the checkpost.
 
@@ -13,15 +13,15 @@ Checkpost provides an security to an area or a place by authenticate the vehicle
 
 # 4W'S and 1H:
 ## What?
-* It is an display based project which Guides users on some basic information regarding Sensors.
+* It is an display based project which guides users on some basic information regarding tax to be payed while passes through checkpost.
 ## WHY?
-* Its a Good habit for young Instrumenteers to know about about the Sensors which plays as a key ingredient in their Education survival.
+* It helps the user to get the correct amount to be payed at the checkpost and increases the security to the particular area. 
 ## WHERE?
-* We can use it as a Learning platform for schools, colleges, Instrumentation Labs.
+* We can use it as a security purpose for state borders,inter state borders,schools, colleges, and residential areas etc.
 ## WHO?
-*  It is an automated Guide no need of any manual involvement for any mentor for users.
+*  It is an automated tax generated application that doesn't require any mentor for users.
 ## HOW?
-* A sensor which is the main part of this project and it is the one which detects and displays the value.
+* Type of vehicle is main part for tax calculations and registration number is main part for security.
 
 # SWOT ANALYSIS:
 ## Strength:
