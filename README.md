@@ -3,3 +3,4 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a5e3d43ef9c64513b62fe771a671071a)](https://www.codacy.com/gh/Teja-Srinivas-Reddy/P1_Checkpost/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Teja-Srinivas-Reddy/P1_Checkpost&amp;utm_campaign=Badge_Grade)
 [![Git Inspector](https://github.com/Teja-Srinivas-Reddy/P1_Checkpost/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Teja-Srinivas-Reddy/P1_Checkpost/actions/workflows/gitinspector.yml)
 [![Code Quality - Cppcheck](https://github.com/Teja-Srinivas-Reddy/P1_Checkpost/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Teja-Srinivas-Reddy/P1_Checkpost/actions/workflows/cppcheck.yml)
+![code grade](https://api.codiga.io/project/32268/status/svg)
