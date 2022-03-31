@@ -6,7 +6,7 @@ BUILD = build
 
 # All source code files
 SRC =mainprogram.c\
-methodoperations.c
+src/methodoperations.c
 
 #project output
 PROJECT_OUTPUT= $(BUILD)/$(PROJ_NAME).exe
