@@ -5,6 +5,8 @@ void getDetails();
 int getMenuOption();
 void showAllEntries();
 void addNewEntry();
+int check();
+
 int main()
 {
 
