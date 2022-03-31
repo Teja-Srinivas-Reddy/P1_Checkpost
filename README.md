@@ -1,3 +1,4 @@
 [![Build CI - Linux](https://github.com/Teja-Srinivas-Reddy/P1_Checkpost/actions/workflows/Linux.yml/badge.svg)](https://github.com/Teja-Srinivas-Reddy/P1_Checkpost/actions/workflows/Linux.yml)
 [![Bulid CI - windows](https://github.com/Teja-Srinivas-Reddy/P1_Checkpost/actions/workflows/windows.yml/badge.svg)](https://github.com/Teja-Srinivas-Reddy/P1_Checkpost/actions/workflows/windows.yml)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a5e3d43ef9c64513b62fe771a671071a)](https://www.codacy.com/gh/Teja-Srinivas-Reddy/P1_Checkpost/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Teja-Srinivas-Reddy/P1_Checkpost&amp;utm_campaign=Badge_Grade)
+[![Git Inspector](https://github.com/Teja-Srinivas-Reddy/P1_Checkpost/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Teja-Srinivas-Reddy/P1_Checkpost/actions/workflows/gitinspector.yml)
