@@ -7,6 +7,7 @@ int vechicalType[100], payment[100], status[100];
 char time_data[100][100];
 char registrationNumber[100][100];
 
+
 // car, lorry, bike
 int price[5] =
  {
@@ -139,4 +140,16 @@ void showAllEntries()
     if (ch == 0x0A)
       return;
   }
+}
+int check(){
+ char chec_amount='bike';
+ if(check_amount=='bike'){
+  return 20;
+ 
+ }esle{
+ return 0;
+ }
+  
+
+
 }
