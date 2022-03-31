@@ -18,10 +18,10 @@ void tearDown(){}
 /* Prototypes for all the test functions */
 
 
-void test_unity(void){
+void test_check(void){
         
-        int sum=1000;
-  	TEST_ASSERT_EQUAL(1,fun6(sum));
+        char sum='bike';
+  	TEST_ASSERT_EQUAL(20,check(sum));
       
 }
 
@@ -31,7 +31,7 @@ void test_unity(void){
 int main(void)
 {
 UNITY_BEGIN();
-RUN_TEST(test_unity);
+RUN_TEST(test_check);
 
 return UNITY_END();
 }
