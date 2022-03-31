@@ -8,6 +8,7 @@
 void printTitle();
 void getDetails();
 int getMenuOption();
+int check();
 void showAllEntries();
 
 void addNewEntry();
