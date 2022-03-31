@@ -4,3 +4,4 @@
 [![Git Inspector](https://github.com/Teja-Srinivas-Reddy/P1_Checkpost/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Teja-Srinivas-Reddy/P1_Checkpost/actions/workflows/gitinspector.yml)
 [![Code Quality - Cppcheck](https://github.com/Teja-Srinivas-Reddy/P1_Checkpost/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Teja-Srinivas-Reddy/P1_Checkpost/actions/workflows/cppcheck.yml)
 ![code grade](https://api.codiga.io/project/32268/status/svg)
+[![Unit Testing - Unity](https://github.com/Teja-Srinivas-Reddy/P1_Checkpost/actions/workflows/unittest.yml/badge.svg)](https://github.com/Teja-Srinivas-Reddy/P1_Checkpost/actions/workflows/unittest.yml)
