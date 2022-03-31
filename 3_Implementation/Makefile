@@ -8,7 +8,7 @@ BUILD = build
 SRC =mainprogram.c\
 src/methodoperations.c
 
-TEST_SRC = test/test_CP.c\
+TEST_SRC = test/test_.PCc\
 unity/unity.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).$(EXEC)
